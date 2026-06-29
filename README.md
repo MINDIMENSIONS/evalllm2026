@@ -1,3 +1,3 @@
 # MINDIMENSIONS Contribution to EvalLLM2026 Challenges
 
-Code will be released shortly..
+Implementations of the experiments are provided as notebooks.
